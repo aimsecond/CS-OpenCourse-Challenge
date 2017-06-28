@@ -64,21 +64,26 @@ On completion of 6.042J, students will be able to explain and apply the basic me
 
 In CS 61A, we are interested in teaching you about programming, not about how to use one particular programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming. Mastery of a particular programming language is a very useful side effect of studying these general techniques. However, our hope is that once you have learned the essence of programming, you will find that picking up a new programming language is but a few days' work.
 
-Course Page
+[Course Page](https://cs61a.org/articles/resources.html)
 
 ---
 #### UC Berkeley CS61B Data Structures(2016 Spring)
 
 In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
 
-Course Page
+[Course Page](http://datastructur.es/sp16/)
 
 ---
 #### MIT 6.005 Software Construction(2016 Fall)
 
-Course Page
-<br/>Course Video Part 1(edx)
-<br/>Course Video Part 2(edx)
+6.005 Software Construction introduces fundamental principles and techniques of software development, i.e., how to write software that is safe from bugs, easy to understand, and ready for change. The course includes problem sets and a final project. Important topics include specifications and invariants; testing; abstract data types; design patterns for object-oriented programming; concurrent programming and concurrency; and functional programming.
+
+
+[Course Page](http://web.mit.edu/6.005/www/fa16/)
+
+[Course Video Part 1(edx)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x#!)
+
+[Course Video Part 2(edx)](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x?utm_source=OCW&amp;utm_medium=CHP&amp;utm_campaign=OCW)
 
 ---
 #### CMU 15-213 Introduction to Computer Systems
@@ -104,7 +109,7 @@ Lecture Videos
 #### Princeton Algorithm Part I & Part II (Coursera)
 
 Princeton Algorithm Part I time: 2017 July 10 - August 27
-Princeton Algorithm Part II time: TBD
+<br/>Princeton Algorithm Part II time: TBD
 
 ---
 #### Udacity - Intro to Artificial Intelligence
