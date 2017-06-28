@@ -1,7 +1,7 @@
 # CS-OpenCourse-Challenge
 
 ## Motivation
-After I got my Electrical Engineering B.S. from Illinois Institute of Technology in May 2017, I decided to strengthen coding ability because a solid computer science background is preferred by the industry. Inspired by [Scott Young’s MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), I decided to start my own challenge. I will post all my resources on this website as well as Github and hopefully more people could benefit from it. 
+After I got my Electrical Engineering B.S. from Illinois Institute of Technology in May 2017, I decided to strengthen coding ability because a solid computer science background is preferred by the industry. Inspired by [Scott Young’s MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), I decided to start my own challenge. I will post all my resources on the Github and hopefully more people could benefit from it. 
 
 ## Course List
 Basically I will follow the [MIT Computer Science and Engineering 6-3](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) course list BUT I also modified the list a lot to fit my plan. As a former engineering student, I will skip some of the classes that I have already took. Also, some of the course in the MIT 6-3 list will be replaced by other WELL-KNOWN courses, which provided by world-class universities like UC berkeley, Stanford, Princeton, etc.
@@ -72,11 +72,13 @@ Course Page
 In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
 
 Course Page
-MIT 6.005 Software Construction(2016 Fall)
+
+---
+#### MIT 6.005 Software Construction(2016 Fall)
 
 Course Page
-Course Video Part 1(edx)
-Course Video Part 2(edx)
+<br/>Course Video Part 1(edx)
+<br/>Course Video Part 2(edx)
 
 ---
 #### CMU 15-213 Introduction to Computer Systems
@@ -86,9 +88,9 @@ The ICS course provides a programmer's view of how computer systems execute prog
 This is the must-have course for everyone in CMU who wants to learn some computer science no matter what major are you in. Because it's CMU (The course number is as same as the zip code of CMU)!
 
 Course Page
-Lecture Notes
-Videos
-Assignments
+<br/>Lecture Notes
+<br/>Videos
+<br/>Assignments
 
 ---
 #### UC Berkeley CS162 Operating Systems and Systems Programming
@@ -96,7 +98,7 @@ Assignments
 The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
 
 Lecture Videos 
-Lecture Notes
+<br/>Lecture Notes
 
 ---
 #### Princeton Algorithm Part I & Part II (Coursera)
@@ -119,7 +121,7 @@ Natural language processing (NLP) is one of the most important technologies of t
 This course is a merger of Stanford's previous cs224n course (Natural Language Processing) and cs224d (Deep Learning for Natural Language Processing).
 
 Course Page
-Course Video
+<br/>Course Video
 
 ---
 #### Stanford CS227b General Game Playing
@@ -130,9 +132,9 @@ General game players are computer systems able to play strategy games based sole
 > - There is no available lecture video for this course but it won't hunt because this course is taught in "flipped classroom" mode.
 
 Course Page
-Course Resources
-ID: 252017708599048
-Password: 58582
+<br/>Course Resources
+<br/>ID: 252017708599048
+<br/>Password: 58582
 
 ---
 #### Stanford CS229 Machine Learning
@@ -140,7 +142,7 @@ Password: 58582
 This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs; VC theory; large margins); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
 
 Course Page
-Videos(Coursera)
+<br/>Videos(Coursera)
 
 ---
 #### Stanford CS231n Convolutional Neural Networks for Visual Recognition
@@ -148,9 +150,9 @@ Videos(Coursera)
 Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge.
 
 Course Page
-Lecture Notes(2016)
-Videos(2016)
-Assignments Answer
+<br/>Lecture Notes(2016)
+<br/>Videos(2016)
+<br/>Assignments Answer
 
 ## External Links
 1. MIT CSE course degree chart(Course 6-3)
