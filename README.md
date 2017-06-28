@@ -80,10 +80,8 @@ In this course, you will study advanced programming techniques including data st
 
 
 [Course Page](http://web.mit.edu/6.005/www/fa16/)
-
-[Course Video Part 1(edx)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x#!)
-
-[Course Video Part 2(edx)](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x?utm_source=OCW&amp;utm_medium=CHP&amp;utm_campaign=OCW)
+<br/>[Course Video Part 1(edx)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x#!)
+<br/>[Course Video Part 2(edx)](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x?utm_source=OCW&amp;utm_medium=CHP&amp;utm_campaign=OCW)
 
 ---
 #### CMU 15-213 Introduction to Computer Systems
@@ -92,18 +90,18 @@ The ICS course provides a programmer's view of how computer systems execute prog
 
 This is the must-have course for everyone in CMU who wants to learn some computer science no matter what major are you in. Because it's CMU (The course number is as same as the zip code of CMU)!
 
-Course Page
-<br/>Lecture Notes
-<br/>Videos
-<br/>Assignments
+[Course Page](http://www.cs.cmu.edu/~213/)
+<br/>[Lecture Notes](http://www.cs.cmu.edu/~213/schedule.html)
+<br/>[Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
+<br/>[Assignments](http://csapp.cs.cmu.edu/public/labs.html)
 
 ---
 #### UC Berkeley CS162 Operating Systems and Systems Programming
 
 The purpose of this course is to teach the design of operating systems and operating systems concepts that appear in other advanced systems. Topics we will cover include concepts of operating systems, systems programming, networked and distributed systems, and storage systems, including multiple-program systems (processes, interprocess communication, and synchronization), memory allocation (segmentation, paging), resource allocation and scheduling, file systems, basic networking (sockets, layering, APIs, reliability), transactions, security, and privacy.
 
-Lecture Videos 
-<br/>Lecture Notes
+[Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+<br/>[Lecture Notes](https://inst.eecs.berkeley.edu/~cs162/sp15/)
 
 ---
 #### Princeton Algorithm Part I & Part II (Coursera)
@@ -116,7 +114,7 @@ Princeton Algorithm Part I time: 2017 July 10 - August 27
 
 Artificial Intelligence (AI) technology is increasingly prevalent in our everyday lives. It has uses in a variety of industries from gaming, journalism/media, to finance, as well as in the state-of-the-art research fields from robotics, medical diagnosis, and quantum science. In this course you’ll learn the basics and applications of AI, including: machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing.
 
-Course Page
+[Course Page](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
 ---
 #### Stanford CS224n Natural Language Processing with Deep Learning
@@ -125,19 +123,19 @@ Natural language processing (NLP) is one of the most important technologies of t
 
 This course is a merger of Stanford's previous cs224n course (Natural Language Processing) and cs224d (Deep Learning for Natural Language Processing).
 
-Course Page
-<br/>Course Video
+[Course Page](http://web.stanford.edu/class/cs224n/)
+<br/>[Course Video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 ---
 #### Stanford CS227b General Game Playing
 
 General game players are computer systems able to play strategy games based solely on formal game descriptions supplied at "runtime". (In other words, they don't know the rules until the games start.) General Game Playing (GGP) is an interesting application in its own right. It is intellectually engaging and more than a little fun. But it is much more than that. It provides a theoretical framework for modeling discrete dynamic systems and for defining rationality in a way that takes into account problem representation and complexities like incompleteness of information and resource bounds. It has practical applications in areas where these features are important, e.g. in business and law. More fundamentally, it raises questions about the nature of intelligence and serves as a laboratory in which to evaluate competing approaches to artificial intelligence.
 
-> - You need to sign up your own ID to compete with others!
-> - There is no available lecture video for this course but it won't hunt because this course is taught in "flipped classroom" mode.
+> \* You need to sign up your own ID to compete with others!
+> \*\* There is no available lecture video for this course but it won't hunt because this course is taught in "flipped classroom" mode.
 
-Course Page
-<br/>Course Resources
+[Course Page](http://logic.stanford.edu/classes/cs227/2017/index.html)
+<br/>[Course Resources](http://logic.stanford.edu/ggp/stanford/index.php)
 <br/>ID: 252017708599048
 <br/>Password: 58582
 
@@ -146,18 +144,18 @@ Course Page
 
 This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs; VC theory; large margins); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
 
-Course Page
-<br/>Videos(Coursera)
+[Course Page](http://cs229.stanford.edu/)
+<br/>[Videos(Coursera)](https://www.coursera.org/learn/machine-learning#)
 
 ---
 #### Stanford CS231n Convolutional Neural Networks for Visual Recognition
 
 Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge.
 
-Course Page
-<br/>Lecture Notes(2016)
-<br/>Videos(2016)
-<br/>Assignments Answer
+[Course Page](http://cs231n.stanford.edu/index.html)
+<br/>[Lecture Notes(2016)](http://cs231n.stanford.edu/2016/syllabus)
+<br/>[Videos(2016)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+<br/>[Assignments Answer](http://cs231n.github.io/)
 
 ## External Links
 1. MIT CSE course degree chart(Course 6-3)
