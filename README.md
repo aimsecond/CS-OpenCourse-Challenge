@@ -13,9 +13,9 @@ Here’s the overall standard for choosing courses:
 4. This course is released after 2010, accompanied by an up-to-date knowledge structure 
 
 Here’s my course list for CS Open Course Challenge:
-> - **CS Intro**
+- **CS Intro**
 > 1. Harvard CS50 Intro to Computer Science 
-> - **Math Prerequisite**
+- **Math Prerequisite**
 > 1. MIT 6.042J Mathematics for Computer Science(2015 Spring)
 > - **CS Core Courses**
 > 1. UC Berkeley CS61A The Structure and Interpretation of Computer Programs
