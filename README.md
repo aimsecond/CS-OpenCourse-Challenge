@@ -16,22 +16,22 @@ Here’s my course list for CS Open Course Challenge:
 > - **CS Intro**
 > 1. Harvard CS50 Intro to Computer Science 
 > - **Math Prerequisite**
-1. MIT 6.042J Mathematics for Computer Science(2015 Spring)
+> 1. MIT 6.042J Mathematics for Computer Science(2015 Spring)
 > - **CS Core Courses**
-1. UC Berkeley CS61A The Structure and Interpretation of Computer Programs
-2. UC Berkeley CS61B Data Structures(2016 Spring)
-3. MIT 6.005 Software Construction(2016 Fall)*
-4. CMU 15-213 Introduction to Computer Systems
-5. UC Berkeley CS162 Operating Systems and Systems Programming(2015 Spring)
-6. Princeton Algorithm Part I & Part II (Coursera)
+> 1. UC Berkeley CS61A The Structure and Interpretation of Computer Programs
+> 2. UC Berkeley CS61B Data Structures(2016 Spring)
+> 3. MIT 6.005 Software Construction(2016 Fall)*
+> 4. CMU 15-213 Introduction to Computer Systems
+> 5. UC Berkeley CS162 Operating Systems and Systems Programming(2015 Spring)
+> 6. Princeton Algorithm Part I & Part II (Coursera)
 > - **CS Advance Elect**
-1. Udacity - Intro to Artificial Intelligence
-2. Stanford CS224n Natural Language Processing with Deep Learning
-3. Stanford CS227b General Game Playing
-4. Stanford CS229 Machine Learning
-5. Stanford CS231n Convolutional Neural Networks for Visual Recognition
+> 1. Udacity - Intro to Artificial Intelligence
+> 2. Stanford CS224n Natural Language Processing with Deep Learning
+> 3. Stanford CS227b General Game Playing
+> 4. Stanford CS229 Machine Learning
+> 5. Stanford CS231n Convolutional Neural Networks for Visual Recognition
 > - **CS Industry Project & Interview preparation**
-1. [Personal Project] Full Stack Engineering: iOS APP + Frontend Web Portal Development + Backend Database Management
-2. Leetcode questions + CC 189
+> 1. [Personal Project] Full Stack Engineering: iOS APP + Frontend Web Portal Development + Backend Database Management
+> 2. Leetcode questions + CC 189
 
 * After 2016, MIT 6.005 has a new name 6.031.
