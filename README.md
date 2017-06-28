@@ -16,23 +16,23 @@ Here’s my course list for CS Open Course Challenge:
 - **CS Intro**
 > 1. [Harvard CS50 Intro to Computer Science](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#harvard-cs50-intro-to-computer-science)
 - **Math Prerequisite**
-> 1. MIT 6.042J Mathematics for Computer Science(2015 Spring)
+> 1. [MIT 6.042J Mathematics for Computer Science(2015 Spring)](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#mit-6042j-mathematics-for-computer-science2015-spring)
 - **CS Core Courses**
-> 1. UC Berkeley CS61A The Structure and Interpretation of Computer Programs
-> 2. UC Berkeley CS61B Data Structures(2016 Spring)
-> 3. MIT 6.005 Software Construction(2016 Fall)*
-> 4. CMU 15-213 Introduction to Computer Systems
-> 5. UC Berkeley CS162 Operating Systems and Systems Programming(2015 Spring)
-> 6. Princeton Algorithm Part I & Part II (Coursera)
+> 1. [UC Berkeley CS61A The Structure and Interpretation of Computer Programs](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#uc-berkeley-cs61a-the-structure-and-interpretation-of-computer-programs)
+> 2. [UC Berkeley CS61B Data Structures(2016 Spring)](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#uc-berkeley-cs61b-data-structures2016-spring)
+> 3. [MIT 6.005 Software Construction(2016 Fall)](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#mit-6005-software-construction2016-fall)\*
+> 4. [CMU 15-213 Introduction to Computer Systems](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#cmu-15-213-introduction-to-computer-system)
+> 5. [UC Berkeley CS162 Operating Systems and Systems Programming(2015 Spring)](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#uc-berkeley-cs162-operating-systems-and-systems-programming)
+> 6. [Princeton Algorithm Part I & Part II (Coursera)](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#princeton-algorithm-part-i--part-ii-coursera)
 - **CS Advance Elect**
-> 1. Udacity - Intro to Artificial Intelligence
-> 2. Stanford CS224n Natural Language Processing with Deep Learning
-> 3. Stanford CS227b General Game Playing
-> 4. Stanford CS229 Machine Learning
-> 5. Stanford CS231n Convolutional Neural Networks for Visual Recognition
+> 1. [Udacity - Intro to Artificial Intelligence](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#udacity---intro-to-artificial-intelligence)
+> 2. [Stanford CS224n Natural Language Processing with Deep Learning](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#stanford-cs224n-natural-language-processing-with-deep-learning)
+> 3. [Stanford CS227b General Game Playing](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#stanford-cs227b-general-game-playing)
+> 4. [Stanford CS229 Machine Learning](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#stanford-cs229-machine-learning)
+> 5. [Stanford CS231n Convolutional Neural Networks for Visual Recognition](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#stanford-cs231n-convolutional-neural-networks-for-visual-recognition)
 - **CS Industry Project & Interview preparation**
-> 1. [Personal Project] Full Stack Engineering: iOS APP + Frontend Web Portal Development + Backend Database Management
-> 2. Leetcode questions + CC 189
+> 1. [Personal Project] Full Stack Engineering: iOS APP + Frontend Web Portal Development + Backend Database Management]()
+> 2. [Leetcode questions](https://leetcode.com/) + [CC 189](https://www.google.com/search?q=Cracking+the+Coding+Interview%3A+189+Programming+Questions+and+Solutions&rlz=1C5CHFA_enUS748US748&oq=Cracking+the+Coding+Interview%3A+189+Programming+Questions+and+Solutions&aqs=chrome..69i57j69i60l2.966j0j4&sourceid=chrome&ie=UTF-8)
 
 *After 2016, MIT 6.005 has a new name 6.031.
 
@@ -134,7 +134,7 @@ General game players are computer systems able to play strategy games based sole
 > \* You need to sign up your own ID to compete with others!
 > \*\* There is no available lecture video for this course but it won't hunt because this course is taught in "flipped classroom" mode.
 
-[Course Page](http://logic.stanford.edu/classes/cs227/2017/index.html)
+<br/>[Course Page](http://logic.stanford.edu/classes/cs227/2017/index.html)
 <br/>[Course Resources](http://logic.stanford.edu/ggp/stanford/index.php)
 <br/>ID: 252017708599048
 <br/>Password: 58582
@@ -158,9 +158,9 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 <br/>[Assignments Answer](http://cs231n.github.io/)
 
 ## External Links
-1. MIT CSE course degree chart(Course 6-3)
-2. UC Berkeley CS courses
-3. MIT Opencourseware
-4. MIT CS courses
-5. Github: prakhar1989/awesome-courses
-6. Unofficial Guide To CS At Harvard
+1. [MIT CSE course degree chart(Course 6-3)](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+2. [UC Berkeley CS courses](http://guide.berkeley.edu/courses/compsci/)
+3. [MIT Opencourseware](https://ocw.mit.edu/index.htm)
+4. [MIT CS courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+5. [Github: prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses#systems)
+6. [Unofficial Guide To CS At Harvard](http://cdn.cs50.net/guide/guide-16.pdf)
