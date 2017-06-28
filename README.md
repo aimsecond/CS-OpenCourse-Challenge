@@ -14,7 +14,7 @@ Here’s the overall standard for choosing courses:
 
 Here’s my course list for CS Open Course Challenge:
 - **CS Intro**
-> 1. Harvard CS50 Intro to Computer Science 
+> 1. [Harvard CS50 Intro to Computer Science](https://github.com/aimsecond/CS-OpenCourse-Challenge/blob/master/README.md#harvard-cs50-intro-to-computer-science)
 - **Math Prerequisite**
 > 1. MIT 6.042J Mathematics for Computer Science(2015 Spring)
 - **CS Core Courses**
@@ -44,7 +44,6 @@ Here’s my course list for CS Open Course Challenge:
 Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
 
 [Course Page](https://cs50.harvard.edu/)
-
 [Course Video](https://www.youtube.com/user/cs50tv)
 
 ---
