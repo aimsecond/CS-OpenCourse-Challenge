@@ -164,3 +164,4 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 4. [MIT CS courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 5. [Github: prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses#systems)
 6. [Unofficial Guide To CS At Harvard](http://cdn.cs50.net/guide/guide-16.pdf)
+7. [Google Official Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
