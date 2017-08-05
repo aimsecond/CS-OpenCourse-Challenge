@@ -8,6 +8,9 @@ namespace ComicBookWeb.Controllers
 {
     public class ComicBookController : Controller
     {
-
+        public string Detail()
+        {
+            return "give me the apple!";
+        }
     }
 }
