@@ -8,9 +8,17 @@ namespace ComicBookWeb.Controllers
 {
     public class ComicBookController : Controller
     {
-        public string Detail()
+        public ActionResult Detail()
         {
-            return "give me the apple!";
+            //if (DateTime.Today.DayOfWeek == DayOfWeek.Monday)
+            //{
+            //    return Redirect("http://www.google.com");
+            //}
+            //return Content("give me the apple!");
+
+            ViewBag.SeriesTitle = "The Amazing Spider-Man";
+            ViewBag.SeriesTitle = "The Amazing Spider-Man"; 
+            return View();
         }
     }
 }
